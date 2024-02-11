@@ -27,7 +27,7 @@ experience:
     company_url: ''
     # company_logo: org-google
     location: California
-    date_start: '2019-01-29'
+    date_start: 'Jan 2019'
     date_end: ''
     description: |2-
         Build AI solutions for Ads
