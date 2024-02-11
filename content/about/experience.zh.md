@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: 工作
 subtitle:
 
 # Date format for experience
@@ -30,7 +30,7 @@ experience:
     date_start: '2019-01-31'
     date_end: ''
     description: |2-
-        Build AI solutions for Ads
+        主要做广告和AI, NLP相关的项目
 
 design:
   columns: '1'

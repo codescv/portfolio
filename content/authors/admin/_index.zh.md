@@ -75,4 +75,4 @@ social:
 
 爱好音乐，自学吉他，偶尔作曲编曲。
 
-{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/resume.pdf" "newtab" >}}简历PDF{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} 欢迎下载我的{{< staticref "uploads/resume.pdf" "newtab" >}}完整简历PDF{{< /staticref >}}
