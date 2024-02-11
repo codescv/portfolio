@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Tech Lead
     company: Google
-    company_url: ''
-    # company_logo: org-google
+    company_url: 'https://www.google.com'
+    company_logo: google
     location: Shanghai, China
     date_start: '2019-01-31'
     date_end: ''

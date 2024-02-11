@@ -20,7 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Engineer and Tech Lead at Google
 
-
 interests:
 - Deep Learning
 - Natural Language Processing
@@ -45,7 +44,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:elecpaoao@qq.com' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/codescv
@@ -76,4 +75,4 @@ social:
 
 爱好音乐，自学吉他，偶尔作曲编曲。
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} 下载我的{{< staticref "uploads/resume.pdf" "newtab" >}}简历PDF{{< /staticref >}}

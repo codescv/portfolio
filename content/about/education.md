@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Computer Science
     company: Zhejiang University
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.zju.edu.cn'
+    company_logo: zju
     location: Hangzhou, Zhejiang, China
     date_start: '2009-09-01'
     date_end: '2012-03-31'
