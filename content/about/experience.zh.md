@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Education
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,14 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computer Science
-    company: Zhejiang University
+  - title: Tech Lead
+    company: Google
     company_url: ''
-    company_logo: org-x
-    location: Hangzhou, Zhejiang, China
-    date_start: '2009-09-01'
-    date_end: '2012-03-31'
-
+    # company_logo: org-google
+    location: 上海
+    date_start: '2019-01-31'
+    date_end: ''
+    description: |2-
+        Build AI solutions for Ads
 
 design:
   columns: '1'

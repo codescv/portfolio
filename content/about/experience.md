@@ -26,7 +26,7 @@ experience:
     company: Google
     company_url: ''
     # company_logo: org-google
-    location: California
+    location: Shanghai, China
     date_start: '2019-01-31'
     date_end: ''
     description: |2-
