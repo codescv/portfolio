@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chi Zhang
+title: 张弛
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,10 +70,10 @@ social:
 #email: ""
 ---
 
-I am an Engineer and Tech Lead at Google, before which I have worked for Xiaomi, Amazon and PDD(aka Temu). 
+现Google工程师/Tech Lead，前小米、亚马逊、PDD工程师. 
 
-I have worked in Ads and machine learning (especially NLP) for more than 10 years.
+互联网从业10余年, 主要做Ads和machine learning.
 
-Outside of work I enjoy playing music. You can find some of my guitar covers in my [YouTube](https://youtube.com/@codescv) channel.
+爱好音乐，自学吉他，偶尔作曲编曲。
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
