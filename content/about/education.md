@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Zhejiang, China
-    date_start: '2009-9'
-    date_end: '2012-3'
+    date_start: '2009-9-1'
+    date_end: '2012-3-31'
 
 
 design:
