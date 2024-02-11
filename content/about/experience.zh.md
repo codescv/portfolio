@@ -25,7 +25,7 @@ experience:
   - title: Tech Lead
     company: Google
     company_url: 'https://www.google.com'
-    company_logo: google
+    # company_logo: google
     location: 上海
     date_start: '2019-01-31'
     date_end: ''
