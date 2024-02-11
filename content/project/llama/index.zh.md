@@ -3,8 +3,7 @@ title: LLaMA代码分析
 summary: 通过对官方LLaMA代码分析, 学习现代Transformer的工作原理
 date: 2023-10-23
 tags:
-  - NLP
-  - ML
+  - Post
 image:
   caption: 'Image credit: [**IndustryWired**](https://industrywired.com)'
 ---

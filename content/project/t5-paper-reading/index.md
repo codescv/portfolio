@@ -3,10 +3,7 @@ title: T5 Paper Notes
 summary: T5 is an encoder-decoder transformer. It utilizes multi-task learning in the training process. By studying the T5 paper, we can learn many interesting details about pre-training of transformer models.
 date: 2020-08-04
 tags:
-  - NLP
-  - T5
-  - DeepLearning
-  - Transformer
+  - Post
 image:
   caption: T5
 ---

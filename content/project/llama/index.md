@@ -3,8 +3,7 @@ title: LLaMA Code Analysis
 summary: Learn how modern transformers work by analyzing the official implementation of LLaMA
 date: 2023-12-14
 tags:
-  - NLP
-  - ML
+  - Post
 image:
   caption: "Image credit: [**IndustryWired**](https://industrywired.com)"
 ---

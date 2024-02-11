@@ -3,10 +3,7 @@ title: T5论文笔记
 summary: T5是一个Encoder-Decoder架构的transformer. 它的训练过程使用了multi-task learning. 通过研究T5论文我们可以知道transformer模型的预训练中许多有趣的细节.
 date: 2020-08-04
 tags:
-  - NLP
-  - T5
-  - DeepLearning
-  - Transformer
+  - Post
 image:
   caption: "T5"
 ---
