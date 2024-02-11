@@ -13,7 +13,7 @@ status:
   icon: 🎸
 
 # Organizations/Affiliations
-#organizations:
+organizations:
 - name: Google
   url: "https://www.google.com"
 
