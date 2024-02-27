@@ -53,6 +53,9 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://youtube.com/@codescv
+  # - icon: bilibili
+  #   icon_pack: fab
+  #   link: https://space.bilibili.com/4062960
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chizhangzju

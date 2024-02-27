@@ -17,8 +17,3 @@ author: admin
 #      path:  # enter filename of a video in /assets/media
 #  css_class: fullscreen
 ---
-
-你好, 我是张弛, 一位工程师和Tech Lead, 目前在Google工作.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-欢迎浏览我的[经历](/zh/about/)和下面的项目.
