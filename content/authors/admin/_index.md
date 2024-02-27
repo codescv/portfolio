@@ -64,7 +64,7 @@ social:
     link: https://github.com/codescv
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -74,9 +74,19 @@ social:
 #email: ""
 ---
 
-I am an Engineer and Tech Lead at Google, before which I have worked for Xiaomi, Amazon and PDD(aka Temu). 
+- Current: engineer and tech lead at Google
+- Past: engineer at Xiaomi, Amazon and PDD(aka Temu)
 
-I have worked in Ads and machine learning (especially NLP) for more than 10 years.
+I have worked in Ads and machine learning for more than 10 years.
+Experiences in:
+  - ML models (ranking, retrieval) for Ads and recommender systems.
+  - Natural Language Processing (Classification, Generative AI etc)
+  - Technical design and reviews
+
+Skills:
+  - Coding: Python, Bash, SQL
+  - ML tools such as Tensorflow, Jax, Pytorch, Numpy
+  - Data processing: BigQuery, Apache Beam
 
 Outside of work I enjoy playing music. You can find some of my guitar covers in my [YouTube](https://youtube.com/@codescv) channel.
 
