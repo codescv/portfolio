@@ -30,7 +30,31 @@ experience:
     date_start: '2019-01-31'
     date_end: ''
     description: |2-
-        主要做广告和AI, NLP相关的项目
+        广告中ML, NLP, Generative AI相关的项目
+  - title: Software Engineer
+    company: PDD
+    company_url: 'https://m.pinduoduo.com'
+    location: Shanghai, China
+    date_start: '2018-01-31'
+    date_end: '2019-01-31'
+    description: |2-
+        广告机器学习平台开发
+  - title: Software Engineer
+    company: Amazon
+    company_url: 'https://amazon.com'
+    location: Beijing, China
+    date_start: '2016-10-10'
+    date_end: '2018-01-31'
+    description: |2-
+        物流预测
+  - title: Software Engineer
+    company: Xiaomi
+    company_url: 'https://mi.com'
+    location: Beijing, China
+    date_start: '2013-06-01'
+    date_end: '2016-10-01'
+    description: |2-
+        广告平台开发
 
 design:
   columns: '1'

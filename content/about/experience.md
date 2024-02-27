@@ -27,10 +27,34 @@ experience:
     company_url: 'https://www.google.com'
     # company_logo: google
     location: Shanghai, China
-    date_start: '2019-01-31'
+    date_start: '2019-02-25'
     date_end: ''
     description: |2-
-        AI projects for ads
+        Prediction models, NLP, Generative AI for Google Ads
+  - title: Software Engineer
+    company: PDD
+    company_url: 'https://m.pinduoduo.com'
+    location: Shanghai, China
+    date_start: '2018-01-31'
+    date_end: '2019-01-31'
+    description: |2-
+        Machine learning platform for ads retrieval and ranking
+  - title: Software Engineer
+    company: Amazon
+    company_url: 'https://amazon.com'
+    location: Beijing, China
+    date_start: '2016-10-10'
+    date_end: '2018-01-31'
+    description: |2-
+        Prediction modeling for logistics and warehouses
+  - title: Software Engineer
+    company: Xiaomi
+    company_url: 'https://mi.com'
+    location: Beijing, China
+    date_start: '2013-06-01'
+    date_end: '2016-10-01'
+    description: |2-
+        Ad platform developer
 
 design:
   columns: '1'

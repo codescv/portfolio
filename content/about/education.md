@@ -22,7 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Computer Science
+  - title: Master of Computer Science
+    company: Zhejiang University
+    company_url: 'https://www.zju.edu.cn'
+    # company_logo: zju
+    location: Hangzhou, Zhejiang, China
+    date_start: '2009-09-01'
+    date_end: '2012-03-31'
+  - title: Bachelor of Engineering
     company: Zhejiang University
     company_url: 'https://www.zju.edu.cn'
     # company_logo: zju

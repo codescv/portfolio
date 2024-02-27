@@ -25,6 +25,7 @@ interests:
 - Deep Learning
 - Natural Language Processing
 - Ad Systems
+- Generative AI
 
 #education:
 #  courses:

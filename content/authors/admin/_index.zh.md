@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Engineer and Tech Lead at Google
 
-interests:
-- Deep Learning
-- Natural Language Processing
-- Ad Systems
-
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -69,10 +64,8 @@ social:
 #email: ""
 ---
 
-现Google工程师/Tech Lead，前小米、亚马逊、PDD工程师. 
-
-互联网从业10余年, 主要做Ads和machine learning.
-
-爱好音乐，自学吉他，偶尔作曲编曲。
+- 现Google工程师/Tech Lead
+- 前小米、亚马逊、PDD工程师. 
+- 互联网从业10余年, 主要方向包括Ads, machine learning, NLP, Generative AI等
 
 {{< icon name="download" pack="fas" >}} 欢迎下载我的{{< staticref "uploads/resume.pdf" "newtab" >}}完整简历PDF{{< /staticref >}}
