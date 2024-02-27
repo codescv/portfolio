@@ -21,11 +21,11 @@ organizations:
 bio: Engineer and Tech Lead at Google
 
 
-interests:
-- Deep Learning
-- Natural Language Processing
-- Ad Systems
-- Generative AI
+# interests:
+# - Deep Learning
+# - Natural Language Processing
+# - Ad Systems
+# - Generative AI
 
 #education:
 #  courses:

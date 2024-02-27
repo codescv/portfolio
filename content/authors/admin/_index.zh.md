@@ -65,7 +65,10 @@ social:
 ---
 
 - 现Google工程师/Tech Lead
-- 前小米、亚马逊、PDD工程师. 
-- 互联网从业10余年, 主要方向包括Ads, machine learning, NLP, Generative AI等
+- 前小米、亚马逊、PDD工程师
 
-{{< icon name="download" pack="fas" >}} 欢迎下载我的{{< staticref "uploads/resume.pdf" "newtab" >}}完整简历PDF{{< /staticref >}}
+互联网从业10余年, 主要兴趣方向包括:
+  - 广告模型，例如排序、召回等
+  - NLP, Generative AI等
+
+{{< icon name="download" pack="fas" >}}查看我的{{< staticref "uploads/resume.pdf" "newtab" >}}完整简历PDF{{< /staticref >}}
